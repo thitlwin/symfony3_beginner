@@ -1,0 +1,7 @@
+body {
+	padding-top: 90px;
+}
+
+list-group-item {
+	min-height: 60px;
+}
